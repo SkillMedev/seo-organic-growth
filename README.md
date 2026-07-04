@@ -9,7 +9,7 @@ Reach for this when you own a keyword and need it to actually rank and get cited
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/seo-organic-growth](https://skillme.dev/pack/seo-organic-growth) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/seo-organic-growth`
+- **With the skills CLI:** `npx skills add SkillMedev/seo-organic-growth`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
