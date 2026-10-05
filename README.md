@@ -1,16 +1,17 @@
 # SEO & Organic Growth Engine
 
-**For SEO leads: take one keyword to a ranked, AI-search-ready page - research to refresh.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For SEO leads: take one keyword to a ranked, AI-search-ready page - research to refresh.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-seo-organic-growth).
 
 Reach for this when you own a keyword and need it to actually rank and get cited - not just a pile of SEO tips. It runs the full organic-search loop as discrete, hand-off-able steps: cluster keywords into a pillar/cluster plan, lock the right page type to intent, close coverage gaps against what already ranks, ship click-earning titles and metas, wire internal links for topical authority, and engineer answer blocks that AI Overviews, ChatGPT, and Perplexity quote verbatim - then catch decaying pages before they slip. Use it to turn a keyword export into a publishing roadmap, or to diagnose why a well-built page won't move.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/seo-organic-growth](https://skillme.dev/pack/seo-organic-growth) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/seo-organic-growth?utm_source=github&utm_medium=readme&utm_campaign=pack-seo-organic-growth) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add keyword-cluster-builder search-intent-classifier serp-gap-analyzer meta-title-optimizer internal-linking-mapper aeo-answer-blockifier content-refresh-auditor seo-optimizer content-brief --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/seo-organic-growth`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -27,4 +28,4 @@ Reach for this when you own a keyword and need it to actually rank and get cited
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-seo-organic-growth).
